@@ -7,5 +7,9 @@ namespace PongApp.Client
 {
     public class GameClient
     {
+        public print()
+        {
+            Console.WriteLine("hello");
+        }
     }
 }
