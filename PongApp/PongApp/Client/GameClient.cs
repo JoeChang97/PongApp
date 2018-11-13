@@ -9,6 +9,7 @@ namespace PongApp.Client
     {
         public print()
         {
+            int x = 1;
             Console.WriteLine("hello");
         }
     }
